@@ -1,0 +1,13 @@
+.footer {
+  width: 100%;
+  height: 67px;
+  padding: 16px 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff7cc;
+}
+
+.footer-container {
+  font-family: "Inter";
+}
